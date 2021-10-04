@@ -1,0 +1,5 @@
+PHPmailer/
+.cache/
+node_modules/
+dist/
+faker/
